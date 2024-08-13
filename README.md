@@ -1,4 +1,5 @@
 # Basic Portfolio Template with Live Weather App  
+Deployed at: https://bazic-portfolioo.netlify.app/   
 This Portfolio template is created just for familiarity with web development  
 The items are placeholders  
 Main homepage file: index.html  
